@@ -1,0 +1,25 @@
+_repo: Tides-A-Book-of-Poems_52584
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drinkwater, John
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '1820'
+    url: http://www.gutenberg.org/2009/agents/1820
+    wikipedia: http://en.wikipedia.org/wiki/John_Drinkwater
+description: ''
+gutenberg_issued: '2016-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: 'Tides: A Book of Poems'
+url: http://www.gutenberg.org/ebooks/52584
